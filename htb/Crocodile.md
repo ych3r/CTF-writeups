@@ -121,8 +121,8 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
 
 Go to /dashboard, it redirects to login page.
 
-![login page](/img/htb/crocodile/login.png)
+![login page](/img/htb/crocodile-login.png)
 
 login with ```admin:rKXM59ESxesUFHAd```
 
-![flag page](/img/htb/crocodile/flag.png)
+![flag page](/img/htb/crocodile-flag.png)
